@@ -2,7 +2,7 @@
 
 This is an app created to demo an API call for weather data.
 
-The JSON payload is parsed, and an array of cities is returned in decending tempurature order.
+The JSON payload is parsed, and an array of cities is returned in decending temperature order.
 
 The payload can be consumed any way necessary, in a template for a web app, or for passing to another service.
 
